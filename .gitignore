@@ -1,0 +1,9 @@
+.venv/
+.env
+servers_config.json
+.idea/
+node_modules/
+package-lock.json
+api_keys.json
+build/
+__pycache__/
